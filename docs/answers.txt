@@ -1,0 +1,44 @@
+Git Lab Tutorials - 02/22/2024
+GitHub account setup - 02/23/2024
+
+
+1)    Directory: C:\Users\Light Sleeper\OneDrive\Florida State University\CEN4020\GitAssignment\assignment2
+
+
+      Mode                 LastWriteTime         Length Name
+      ----                 -------------         ------ ----
+      d-----         2/23/2024  12:23 PM                docs
+
+
+
+2)    git rev-list --count --all
+      6
+
+
+3)    2/23/2024  12:01 PM             31 README.md
+      Command used was 'ls'
+
+
+4)    Branches are a way to logically divide up work and they do not take up additional storage or memory.
+
+
+5)    git log shows the commit history, while git status does not. 
+
+
+6)    git log Vehicle.h
+
+
+7)    git log -all --grep='file'
+
+
+8)    Inheritance occurs when newly created classes inherit attributes and methods from existing classes.
+      Polymorphism is when a method is defined for different objects and can be implemented in its own way.
+      Encapsulation is hiding the internal state and functionality of an object and access is only allowed through public methods.
+
+
+9)    In Integration Manager, each developer makes pushes to their own public repository and pull from the central repository.
+      In Dictator and Lieutenants, only the dictator can make pushes to the repository.
+
+
+10)   All changes made by the 100 developers are merged together by the Lieutenant and then merged again by the Dictator before
+being pushed to the public repository. This will keep things more streamlined with one leader managing code from 100 developers.
