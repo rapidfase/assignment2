@@ -1,0 +1,6 @@
+    Directory: C:\Users\Light Sleeper\OneDrive\Florida State University\CEN4020\GitAssignment\assignment2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         2/23/2024  12:23 PM                docs
